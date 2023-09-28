@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l ./ && find .. -maxdepth 1 -type d -exec ls -l {} \;
+ls -al ; ls ../ -al ; ls ../../ -al ; ls ../../../ -al ; ls ../../../../ -al
