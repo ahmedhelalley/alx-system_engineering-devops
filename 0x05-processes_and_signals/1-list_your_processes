@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script task #2
+
+ps -auxf
