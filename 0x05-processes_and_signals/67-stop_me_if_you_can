@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-#aux script
+#Bash script #67
 
 pkill -f 7-highlander
