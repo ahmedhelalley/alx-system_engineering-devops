@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script task #5
+
+netstat -pl
